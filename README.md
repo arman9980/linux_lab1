@@ -1,1 +1,1 @@
-# linux_lab1
+# linux_lab0 install ubuntu
